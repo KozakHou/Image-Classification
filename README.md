@@ -20,7 +20,7 @@ Demonstration in Cifar10:
 ---
 **Citation**
 ```
-@code{Fourier Neural Operator with Tensorflow, 
+@code{Image Classification, 
            author = "Kozak Hou"
            email = "kozak20010716@g.ncu.edu.tw"
            Tel : +886-905804898
