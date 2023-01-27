@@ -10,3 +10,7 @@ Hope you enjoy my works !
 Demonstration in MNIST:
 
 ![alt www](https://github.com/KozakHou/Image-Classification/blob/main/output.png)
+
+Demonstration in Cifar10:
+
+![alt waw](https://github.com/KozakHou/Image-Classification/blob/main/cifar10_output.png)
