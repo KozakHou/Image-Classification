@@ -7,6 +7,6 @@ I' m now tackling on any renowned algorithm to modeling MNIST classifier.
 Hope you enjoy my works !
 
 
-Demonstration :
+Demonstration in MNIST:
 
 ![alt www](https://github.com/KozakHou/Image-Classification/blob/main/output.png)
