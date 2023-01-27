@@ -6,6 +6,7 @@ I' m now tackling on any renowned algorithm to modeling MNIST classifier.
 
 Hope you enjoy my works !
 
+Benchmarks on Food 101 datasets: https://tensorboard.dev/experiment/MVceQhnBTXC6d2rGEh9G9w/#scalars
 
 Demonstration in MNIST:
 
