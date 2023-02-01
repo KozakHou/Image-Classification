@@ -8,6 +8,16 @@ Hope you enjoy my works !
 
 Benchmarks on Food 101 datasets: https://tensorboard.dev/experiment/MVceQhnBTXC6d2rGEh9G9w/#scalars
 
+Benchmarks on MNIST classifier
+
+|  Model                                   | Train Accuracy | Train Loss | Test Accuracy | Test Loss |
+|------------------------------------------|----------------|------------|---------------|-----------|
+| Fully connected network - After 5 Epochs |         0.8923 |     0.2935 |        0.8731 |    0.2432 |
+| Convolutional network - After 5 Epochs   |         0.8860 |     0.3094 |        0.9048 |    0.1954 |      
+| Residual network - After 5 Epochs        |         0.9064 |     0.2610 |        0.8713 |    0.3398 |
+| Fourier Neural Operator - After 5 Epochs |         0.9486 |     0.1622 |        0.9455 |    0.1806 |
+| U-Net - After 5 Epochs                   |         0.9867 |     0.0431 |        0.9873 |    0.0436 |
+
 Demonstration in MNIST:
 
 ![alt www](https://github.com/KozakHou/Image-Classification/blob/main/output.png)
